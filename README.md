@@ -8,9 +8,7 @@
 
 
 ```
-pip3 install pandas
-pip3 install pick
-pip3 install rich
+pip3 install pandas pick rich
 ```
 > `pip` If on Windows
 
